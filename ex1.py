@@ -1,0 +1,1 @@
+print("hello this is ritik\nfrom patna,Bihar\nthis is just the routine check for the py code")
